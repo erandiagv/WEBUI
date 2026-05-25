@@ -24,26 +24,7 @@ We'll receive an 8-digit code from GitHub on your email address that you used fo
 Choose the plan for your account. For your personal use the free account is always enough. Press `Continue for free`.
 ![Choose you plan](../media/image_1.11.PNG)
 
-### Install software
-Install necessary software used in daily work of a Data Engineer.
 
-#### Python
-Access [Python site](https://www.python.org/downloads/) page and press `Download Python 3.<version>` button in center of the page.\
-You can follow instructions below or access [How to Install Python on Your System: A Guide](https://realpython.com/installing-python/) and follow instruction from there.\
-![Python site](../media/image_1.12.PNG)
-
-Pressing the button from above you'll download Python Installer on your local machine. Once you have it downloaded, navigate to your `Download` directory, identify Python Installer and double-click on it. The pop-up window will appear, from this window choose `Customize installation` and check both check boxes available: `Install launcher for all users` and `Add Python to PATH`.
-![Python window](../media/image_1.13.PNG)
-
-Also, a recommendation is to install all optional features.\
-![Optional Features](../media/image_1.14.PNG)
-
-After installation check if Python was installed successfully on your machine by opening a terminal and writing command:
-```
-python --version
-```
-You should see as output version installed on your local machine.\
-![Python Version](../media/image_1.15.PNG)
 
 #### VS Code
 Access [VS Code site](https://code.visualstudio.com/) page and press `Download for <OS>` button in center of the page.\
